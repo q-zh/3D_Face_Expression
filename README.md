@@ -6,4 +6,4 @@
 
 3. We thank researchers kindly providing their codes of nricp, icp, omp, ksvd, mesh based warping face expression recognition,  landmarks detection, and etc.
 
-4. If you find code is useful, please cite our paper (to be published).
+4. If you find code is useful, please cite our paper (under review).
